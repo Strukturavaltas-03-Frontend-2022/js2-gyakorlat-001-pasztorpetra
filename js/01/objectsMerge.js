@@ -14,4 +14,4 @@ const objectsMerge = (...objects) => ({...objects});
 
 console.log(objectsMerge(johnDoe, janeDoe));
 
-//export default objectsMerge;
+export default objectsMerge;
